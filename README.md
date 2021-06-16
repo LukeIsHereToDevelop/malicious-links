@@ -11,5 +11,13 @@ All the data is on various [JSON](https://www.json.org/json-en.html) files.
 ## Contribute
 You have found other malicious links and you want to add them here? You can! Just do a Pull Request with the new added links.
 
+## License
+Please read [Creative Commons Attribution 4.0 International License](https://github.com/LukeIsHereToDevelop/malicious-links/blob/main/LICENSE).
+
 ## Used By
 - [ShortEm (Advanced URL Shortener)](https://shortem.ml)
+
+---
+
+Made by [LukeIsHereToDevelop](https://github.com/LukeIsHereToDevelop)
+& licensed under [Creative Commons Attribution 4.0 International](https://github.com/LukeIsHereToDevelop/malicious-links/blob/main/LICENSE) License.
